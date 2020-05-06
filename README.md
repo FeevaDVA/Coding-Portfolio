@@ -1,5 +1,6 @@
 # Coding-Portfolio
 A portfolio of programs I made that I am proud of.
+All of these programs will be made in Java or C#.
 
 Here is a list and description of the projects I have finished
 
