@@ -1,6 +1,6 @@
 # Coding-Portfolio
 A portfolio of programs I made that I am proud of.
-All of these programs will be made in Java or C.
+All of these programs will be made in Java or C maybe some python as I learn it.
 
 Here is a list and description of the projects I have finished.
 
